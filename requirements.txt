@@ -1,0 +1,10 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+requests
+psutil
+pyjokes
+pyautogui
+python-dotenv
+pyaudio
+vosk          # optional (for wake word)

@@ -1,0 +1,40 @@
+# ===== Secrets (NEVER commit) =====
+.env
+user.json
+contacts.json
+face_encodings.pkl
+
+# ===== User data =====
+todos.json
+habits.json
+notes.md
+known_faces/
+screenshot_*.png
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+
+# ===== Vosk model (too big for git) =====
+vosk-model*/
+*.zip
+
+# ===== Editors / OS =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# ===== Audio / images =====
+*.wav
+*.mp3
+!sample_*.wav
