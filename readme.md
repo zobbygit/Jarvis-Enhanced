@@ -161,7 +161,7 @@
 ### 1. Clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/jarvis-assistant.git
+git clone https://github.com/zobbygit/Jarvis-Enhanced
 cd jarvis-assistant
 ```
 
@@ -204,8 +204,8 @@ All configuration lives in `.env`. Here's what each key does:
 
 | Variable | Required | Description | Get it free at |
 |---|---|---|---|
-| `WEATHER_API` | ✅ | OpenWeatherMap API key | [openweathermap.org](https://openweathermap.org/api) |
-| `NEWS_API` | ✅ | NewsAPI key | [newsapi.org](https://newsapi.org/) |
+| `WEATHER_API` | ✅ | OpenWeatherMap API key | [openweathermap.org](https://openweathermap.org/ap) |
+| `NEWS_API` | ✅ | FreeNews APi key | [freenewsapi.io](https://www.freenewsapi.io/) |
 | `EMAIL_USER` | ✅ | Gmail address | — |
 | `EMAIL_PASS` | ✅ | Gmail **App Password** | [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords) |
 | `DEFAULT_CITY` | ❌ | Default weather city (default: `Kolkata`) | — |
